@@ -1,0 +1,18 @@
+{
+    "name": "BE2_Extensions.Editor",
+    "rootNamespace": "BE2_Ex.EditorScripts",
+    "references": [
+        "BE2_Extensions.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

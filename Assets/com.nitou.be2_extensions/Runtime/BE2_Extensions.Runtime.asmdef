@@ -1,0 +1,14 @@
+{
+    "name": "BE2_Extensions.Runtime",
+    "rootNamespace": "BE2_Ex",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

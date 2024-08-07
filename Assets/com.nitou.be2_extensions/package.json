@@ -1,0 +1,17 @@
+{
+  "name": "com.nitou.be2_extensions",
+  "displayName": "BE2 Extensions",
+  "version": "0.1.0",
+  "unity": "2021.2",
+  "description": "Extensions of Asset [Blocks Engine 2].",
+  "keywords": [],
+  "author": {
+    "name": "Nitou",
+    "url": "https://github.com/nitou-kanazawa"
+  },
+  "license": "MIT",
+  "category": "",
+  "dependencies": {
+    "com.unity.modules.ui": "1.0.0"
+  }
+}
